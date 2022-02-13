@@ -25,6 +25,7 @@
 - [Чеклист 3](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf).
 
 ## Ссылка на сайт:
+https://ezdovoymamont.github.io/russian-travel/
 
 ## Планы по доработке:
 - Реализовать проект на английском языке.
