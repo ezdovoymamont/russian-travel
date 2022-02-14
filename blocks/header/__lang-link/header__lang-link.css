@@ -5,6 +5,7 @@
   color: #FFFFFF;
   line-height: 1.75rem;
   transition: opacity .2s linear;
+
 }
 
 .header__lang-link:hover {

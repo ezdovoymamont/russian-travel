@@ -1,13 +1,7 @@
-.header__lang-link_active {
-  position: relative;
-}
-
 .header__lang-link_active::after {
   content: "";
-  height: 2px;
+  display: block;
   width: 100%;
-  background-color: #FFFFFF;
-  position: absolute;
-  bottom: 0;
-  left: 0;
+  padding-top: 1px;
+  border-bottom: 2px solid #FFFFFF;
 }
